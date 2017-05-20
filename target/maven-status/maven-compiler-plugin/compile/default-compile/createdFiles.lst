@@ -1,0 +1,7 @@
+com\mycompany\szamologepmvc\controller\FXMLController.class
+com\mycompany\szamologepmvc\controller\MainApp.class
+com\mycompany\szamologepmvc\model\dao\SzamitasDAOFactory.class
+com\mycompany\szamologepmvc\model\dao\Szamitas.class
+com\mycompany\szamologepmvc\model\dao\SzamitasDAOImpl.class
+com\mycompany\szamologepmvc\model\dao\SzamitasDAO.class
+com\mycompany\szamologepmvc\model\SzamologepModel.class
